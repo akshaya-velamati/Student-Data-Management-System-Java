@@ -45,3 +45,10 @@ Student-Data-Management-System-Java
 ## Learning Outcomes
 
 This project helped me understand Java File I/O, Object-Oriented Programming, exception handling, and implementing CRUD operations without using a database.
+
+## Future Enhancements
+
+- Database Integration using MySQL
+- GUI using Java Swing or JavaFX
+- User Authentication
+- Export Records to Excel/PDF
